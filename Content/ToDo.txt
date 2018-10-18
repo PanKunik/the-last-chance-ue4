@@ -1,4 +1,4 @@
-*Low-poly water
+*Low-poly water x
 *Low-poly exaplme level (small island)
 *Low-poly tree
 *Low-poly palm tree
@@ -6,18 +6,20 @@
 *Low-poly rocks
 *Low-poly axe
 *Low-poly stone (tool)
-*Low-poly sticks
+*Low-poly sticks  x
+*Low-poly branches
+*Low-poly chest
 *Low-poly wood logs
 *Low-poly character
 *Low-poly ferry (?)
-*Low-poly rope
+*Low-poly rope  x
 *Low-poly sword
 *Low-poly campfire
 *EQ (with crafting)
 *Crafting station
-*Low-poly pot
+*Low-poly pot x
 *Low-poly fish
-*Low-poly wild animals (puma, gepard, dzika œwinia)
+*Low-poly wild animals (puma, gepard, dzika Å“winia)
 *Low-poly fruits (mango, lime, coconut, banana)
 *Low-poly medicine
 *Low-poly airplane
