@@ -7,14 +7,14 @@
 *Low-poly axe
 *Low-poly stone (tool)
 *Low-poly sticks  x
-*Low-poly branches
-*Low-poly chest
-*Low-poly wood logs
+*Low-poly branches x
+*Low-poly chest x
+*Low-poly wood logs x
 *Low-poly character
 *Low-poly ferry (?)
 *Low-poly rope  x
 *Low-poly sword
-*Low-poly campfire
+*Low-poly campfire x
 *EQ (with crafting)
 *Crafting station
 *Low-poly pot x
