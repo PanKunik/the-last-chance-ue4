@@ -5,6 +5,8 @@
 *Low-poly bush
 *Low-poly rocks
 *Low-poly axe
+*Low-poly shovel
+*Low-poly dagger
 *Low-poly stone (tool)
 *Low-poly sticks  x
 *Low-poly branches x
@@ -19,8 +21,9 @@
 *Crafting station
 *Low-poly pot x
 *Low-poly fish
-*Low-poly wild animals (puma, gepard, dzika œwinia)
+*Low-poly shark
+*Low-poly wild animals (puma, gepard, dzika swinia)
 *Low-poly fruits (mango, lime, coconut, banana)
 *Low-poly medicine
 *Low-poly airplane
-*Low-poly grass
+*Low-poly grass x
