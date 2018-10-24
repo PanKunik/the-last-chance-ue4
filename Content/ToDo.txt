@@ -3,7 +3,7 @@
 *Low-poly tree
 *Low-poly palm tree
 *Low-poly bush
-*Low-poly rocks
+*Low-poly rocks x
 *Low-poly axe
 *Low-poly shovel
 *Low-poly dagger
