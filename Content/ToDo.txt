@@ -1,7 +1,7 @@
 *Low-poly water x
 *Low-poly exaplme level (small island)
 *Low-poly tree
-*Low-poly palm tree
+*Low-poly palm tree x
 *Low-poly bush
 *Low-poly rocks x
 *Low-poly axe
@@ -23,7 +23,7 @@
 *Low-poly fish
 *Low-poly shark
 *Low-poly wild animals (puma, gepard, dzika swinia)
-*Low-poly fruits (mango, lime, coconut, banana)
+*Low-poly fruits (mango, lime, coconut (x), banana)
 *Low-poly medicine
 *Low-poly airplane
 *Low-poly grass x
