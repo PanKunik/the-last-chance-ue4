@@ -4,8 +4,8 @@
 *Low-poly palm tree x
 *Low-poly bush
 *Low-poly rocks x
-*Low-poly axe
-*Low-poly shovel
+*Low-poly axe x
+*Low-poly shovel x
 *Low-poly dagger
 *Low-poly stone (tool)
 *Low-poly sticks  x
@@ -15,15 +15,15 @@
 *Low-poly character
 *Low-poly ferry (?)
 *Low-poly rope  x
-*Low-poly sword
+*Low-poly sword x
 *Low-poly campfire x
 *EQ (with crafting)
 *Crafting station
 *Low-poly pot x
-*Low-poly fish
+*Low-poly fish x
 *Low-poly shark
 *Low-poly wild animals (puma, gepard, dzika swinia)
-*Low-poly fruits (mango, lime, coconut (x), banana)
+*Low-poly fruits (mango (x), orange (x), coconut (x), banana)
 *Low-poly medicine
 *Low-poly airplane
 *Low-poly grass x
