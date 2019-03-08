@@ -1,0 +1,16 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+Content/Maps/MainIsland/MainLevel_BuiltData.uasset
+Content/Maps/MainIsland/MainLevel_BuiltData.uasset
