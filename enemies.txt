@@ -1,0 +1,42 @@
+Wrogowie w grze TLC:
+
+1. Ludnoœæ plemienna:
+	Trzy rodzaje:
+	a. dziecko:
+		-biega od punktu, do punktu,
+		-goni inne dzieci (losowo),
+		-gdy zbli¿y siê zwierzê lub gracz to chowa siê w punkcie (któy bêdzie np. w namiocie);
+
+	b. kobieta:
+		-chodzi od punktu do punktu (rzadko),
+		-czêsto zatrzymuje siê w jednym miejsu (np. przy narzêdziach, paleniskach itp.),
+		-gdy zbli¿y siê zwierzê lub gracz to chowa siê w punkcie (który bêdzie np. w namiocie);
+
+	c. mê¿czyzna:
+		-patroluje od punktu do punktu,
+		-siada w miejscu, przy palenisku, gdzie jest wiêcej ludnoœci tubylczej (³¹cz¹ siê w grupy),
+		-od czasu do czasu zbieraj¹ siê w grupy 2-3 osobowe i chodza po wyspie (zwiad),
+		-poluja na zwierzêta (*),
+		-gdy znajd¹ gracza atakuj¹ (*);
+
+		*jeœli s¹ sami, to wracaj¹ do wioski po posi³ki (2-3 osoby)
+
+2. Zwierzêta:
+	a. NiedŸwiedŸ:
+		-œpi w swojej jakie (dwa punkty na mapie, bêd¹ dwie rodziny niedŸwiedzi),
+		-w nocy œpi,
+		-w dzieñ poluje,
+		-gdy spotka gracza lub ludnoœæ plemienna atakuje,
+		-chodzi na zwiad, jednak¿e unika wioski;		
+
+	b. Dzika œwinia:
+		-œpi w nocy,
+		-za dnia chodzi po wyspie (do wodopoju, szuka jedzenia),
+		-unika innych zwierz¹t (ucieka) i wioski plemnienia,
+		-atakuje gracza i ludnoœæ plemienn¹;	
+
+	c. Puma:
+		-w nocy poluje,
+		-za dnia œpi (jakiœ punkt na mapie),
+		-jeœli podejdzie siê zbyt blisko, to siê budzi i atakuje,
+		-jeœli jest mocno ranna, to stara siê uciec;
