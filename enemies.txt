@@ -5,7 +5,7 @@ Wrogowie w grze TLC:
 	a. dziecko:
 		-biega od punktu, do punktu,
 		-goni inne dzieci (losowo),
-		-gdy zbli¿y siê zwierzê lub gracz to chowa siê w punkcie (któy bêdzie np. w namiocie);
+		-gdy zbli¿y siê zwierzê lub gracz to chowa siê w punkcie (który bêdzie np. w namiocie);
 
 	b. kobieta:
 		-chodzi od punktu do punktu (rzadko),
