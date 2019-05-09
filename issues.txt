@@ -1,2 +1,3 @@
 1. Œwiat³o pochodni. Przy stacjonarnym wywala silnik. Inny sposób?
 2. Sekwencje i cinematic - na wyspie?
+3. Translucent sort priority
