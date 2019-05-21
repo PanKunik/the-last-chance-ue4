@@ -5,12 +5,12 @@ Wrogowie w grze TLC:
 	a. dziecko:
 		-biega od punktu, do punktu,
 		-goni inne dzieci (losowo),
-		-gdy zbli¿y siê zwierzê lub gracz to chowa siê w punkcie (który bêdzie np. w namiocie);
+		-gdy zbli¿y (dŸwiêk lub odleg³oœæ) siê zwierzê lub gracz to chowa siê w punkcie (który bêdzie np. w namiocie);
 
 	b. kobieta:
 		-chodzi od punktu do punktu (rzadko),
 		-czêsto zatrzymuje siê w jednym miejsu (np. przy narzêdziach, paleniskach itp.),
-		-gdy zbli¿y siê zwierzê lub gracz to chowa siê w punkcie (który bêdzie np. w namiocie);
+		-gdy zbli¿y (dŸwiêk lub odleg³oœæ) siê zwierzê lub gracz to chowa siê w punkcie (który bêdzie np. w namiocie);
 
 	c. mê¿czyzna:
 		-patroluje od punktu do punktu,
@@ -25,8 +25,8 @@ Wrogowie w grze TLC:
 	a. NiedŸwiedŸ:
 		-œpi w swojej jakie (dwa punkty na mapie, bêd¹ dwie rodziny niedŸwiedzi),
 		-w nocy œpi,
-		-w dzieñ poluje,
-		-gdy spotka gracza lub ludnoœæ plemienna atakuje,
+		-w dzieñ poluje (reaguje na dŸwiêk lub odleg³oœæ),
+		-gdy spotka gracza (dŸwiêk lub odleg³oœæ) lub ludnoœæ plemienna atakuje,
 		-chodzi na zwiad, jednak¿e unika wioski;		
 
 	b. Dzika œwinia:
@@ -34,9 +34,3 @@ Wrogowie w grze TLC:
 		-za dnia chodzi po wyspie (do wodopoju, szuka jedzenia),
 		-unika innych zwierz¹t (ucieka) i wioski plemnienia,
 		-atakuje gracza i ludnoœæ plemienn¹;	
-
-	c. Puma:
-		-w nocy poluje,
-		-za dnia œpi (jakiœ punkt na mapie),
-		-jeœli podejdzie siê zbyt blisko, to siê budzi i atakuje,
-		-jeœli jest mocno ranna, to stara siê uciec;
