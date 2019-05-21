@@ -17,7 +17,7 @@ Wrogowie w grze TLC:
 		-siada w miejscu, przy palenisku, gdzie jest wiêcej ludnoœci tubylczej (³¹cz¹ siê w grupy),
 		-od czasu do czasu zbieraj¹ siê w grupy 2-3 osobowe i chodza po wyspie (zwiad),
 		-poluja na zwierzêta (*),
-		-gdy znajd¹ gracza atakuj¹ (*);
+		-gdy znajd¹ (lub go us³ysz¹) gracza atakuj¹ (*);
 
 		*jeœli s¹ sami, to wracaj¹ do wioski po posi³ki (2-3 osoby)
 
