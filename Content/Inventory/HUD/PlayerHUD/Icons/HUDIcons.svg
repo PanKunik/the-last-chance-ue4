@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.92173914"
-     inkscape:cx="295.69243"
-     inkscape:cy="758.39632"
+     inkscape:zoom="1.303536"
+     inkscape:cx="450.65101"
+     inkscape:cy="488.16226"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -235,5 +235,13 @@
        inkscape:export-filename="C:\Users\Kunik\path848.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="M 420 372.51953 A 250.00001 250.00001 0 0 0 170 622.51953 A 250.00001 250.00001 0 0 0 420 872.51953 A 250.00001 250.00001 0 0 0 670 622.51953 A 250.00001 250.00001 0 0 0 420 372.51953 z M 420 436.5293 A 185.99058 185.99058 0 0 1 605.99023 622.51953 A 185.99058 185.99058 0 0 1 420 808.50977 A 185.99058 185.99058 0 0 1 234.00977 622.51953 A 185.99058 185.99058 0 0 1 420 436.5293 z "
+       transform="scale(0.26458333)"
+       id="path847"
+       inkscape:export-filename="C:\Users\Kunik\BloodBarIcon.png"
+       inkscape:export-xdpi="393.216"
+       inkscape:export-ydpi="393.216" />
   </g>
 </svg>
