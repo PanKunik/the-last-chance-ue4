@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.46086957"
-     inkscape:cx="40.837113"
-     inkscape:cy="1228.8272"
+     inkscape:zoom="0.92173914"
+     inkscape:cx="295.69243"
+     inkscape:cy="758.39632"
      inkscape:document-units="mm"
-     inkscape:current-layer="g892"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:snap-center="true"
@@ -64,8 +64,8 @@
        id="rect844"
        width="423.33331"
        height="190.5"
-       x="-31.749992"
-       y="-306.25" />
+       x="-29.104166"
+       y="-115.75" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.89773321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 126.27782,-13.483043 c -1.39121,2.17756 -2.39747,3.7663925 -3.16529,4.9940615 2.68419,4.4160001 3.16062,5.293276 5.00798,8.72719745 2.3367,4.34358185 5.10055,8.26361505 5.56838,11.41095305 0.77015,5.181124 -0.57454,8.847329 -2.73571,11.391006 4.18685,-1.645687 8.89609,-5.587269 7.67875,-13.7769287 -0.41698,-2.8052245 -2.88027,-6.2990004 -4.96298,-10.17044132 -2.16524,-4.02480118 -2.16556,-4.02493878 -7.39113,-12.57584798 z m -6.45446,1.900203 c -5.46308,8.5509076 -5.07913,8.1586712 -7.02137,11.54131548 -2.57122,4.47801522 -4.86471,8.12961802 -5.37309,11.25646852 -1.91067,11.751693 8.18494,14.731204 12.39446,14.731204 3.56708,0 14.10679,-2.988432 12.35363,-14.782699 -0.41698,-2.8052262 -2.88027,-6.299 -4.96298,-10.17044181 C 125.04879,-3.031794 125.04892,-3.0319324 119.82336,-11.58284 Z M 118.7712,5.5189771 h 1.62881 v 4.8864319 h 4.88643 v 1.628811 h -4.88643 v 4.885968 H 118.7712 V 12.03422 h -4.88597 v -1.628811 h 4.88597 z"
@@ -217,5 +217,23 @@
          id="path871"
          style="fill:none;fill-opacity:0.9865229;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
     </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.91891444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="M 101.28919,24.105828 58.208049,67.186398 15.127472,24.105268 Z"
+       id="rect845"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Kunik\ArrowDown.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path848"
+       d="M 244.16419,77.769176 201.08305,34.688608 158.00247,77.769726 Z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.91891444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       inkscape:export-filename="C:\Users\Kunik\path848.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
   </g>
 </svg>
